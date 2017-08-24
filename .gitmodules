@@ -4,3 +4,6 @@
 [submodule "tdd"]
 	path = tdd
 	url = https://github.com/vtantia/tdd
+[submodule "dense_flow"]
+	path = dense_flow
+	url = https://github.com/yjxiong/dense_flow.git
